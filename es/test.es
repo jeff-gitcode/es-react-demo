@@ -11,6 +11,15 @@ POST /products/_doc
     "brand": "Example Brand"
 }
 
+POST /products/_doc
+{
+    "name": "T-Shirt",
+    "description": "This is a t-shirt for casual wear.",
+    "price": 10.99,
+    "category": "Clothing",
+    "brand": "Example Brand"
+}
+
 // 2. get products
 GET /products/_search?pretty 
 { 
