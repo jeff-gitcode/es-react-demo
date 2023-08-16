@@ -1,0 +1,15 @@
+### get
+GET  http://localhost:3000/api HTTP/1.1
+content-type: application/json
+accept: text/plain
+
+### search movies
+POST  http://localhost:3000/api/movies/search HTTP/1.1
+content-type: application/json
+accept: text/plain
+
+{
+  "data": {
+    "title": "Wonderland"
+  }
+}

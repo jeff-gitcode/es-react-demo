@@ -37,6 +37,20 @@ $ curl -X GET "localhost:9200/products/_search?pretty" -H 'Content-Type: applica
 
 # kibana http://localhost:5601
 
+# import movies.csv
+```
+
+## Nestjs
+
+```javascript
+$ npx create-nx-workspace@latest --packageManager=yarn
+
+$ cd org
+$ nx g @nx/nest:app nestapp
+
+$ yarn add -D @elastic/elasticsearch @nestjs/elasticsearch @nestjs/config
+
+$ nx g resource search
 ```
 
 ![es](./doc/es-vscode.jpg)
