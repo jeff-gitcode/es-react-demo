@@ -11,6 +11,10 @@
 
 ## Elastic Search
 
+![es](./doc/es-vscode.jpg)
+
+![es](./doc/kibana.jpg)
+
 ```javascript
 # start docker
 $ sudo service docker start
@@ -42,6 +46,10 @@ $ curl -X GET "localhost:9200/products/_search?pretty" -H 'Content-Type: applica
 
 ## Nestjs
 
+![es](./doc/es-nestapp-debug.jpg)
+
+![es](./doc/es-nestapp.jpg)
+
 ```javascript
 $ npx create-nx-workspace@latest --packageManager=yarn
 
@@ -51,8 +59,9 @@ $ nx g @nx/nest:app nestapp
 $ yarn add -D @elastic/elasticsearch @nestjs/elasticsearch @nestjs/config
 
 $ nx g resource search
+
+$ nx g resource movies
+
+# launch.json, set up debug mode for nestjs
+
 ```
-
-![es](./doc/es-vscode.jpg)
-
-![es](./doc/kibana.jpg)
