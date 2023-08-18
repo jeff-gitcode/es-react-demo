@@ -1,5 +1,5 @@
 {
-    "took": 27,
+    "took": 1,
     "timed_out": false,
     "_shards": {
         "total": 1,
@@ -16,7 +16,7 @@
         "hits": [
             {
                 "_index": "movies",
-                "_id": "MSli34kB2pxr6vtDpwTx",
+                "_id": "xrK4CIoBTpQz_13glG2d",
                 "_score": 1,
                 "_source": {
                     "overview": "Set in 1940's France, a new teacher at a school for disruptive boys gives hope and inspiration.",
@@ -43,7 +43,7 @@
             },
             {
                 "_index": "movies",
-                "_id": "Mili34kB2pxr6vtDpwTx",
+                "_id": "x7K4CIoBTpQz_13glG2d",
                 "_score": 1,
                 "_source": {
                     "overview": "A sweet comic film about an Italian man who comes out of the closet and the affect it has on his life and his crazy family. A family movie about the stereotypes of homosexuals and Italians – called by critics \"the gay\" My Big Fat Greek Wedding.",
@@ -71,7 +71,7 @@
             },
             {
                 "_index": "movies",
-                "_id": "Myli34kB2pxr6vtDpwTx",
+                "_id": "yLK4CIoBTpQz_13glG2d",
                 "_score": 1,
                 "_source": {
                     "overview": "On the afternoon of July 1, 1981, Los Angeles police responded to a distress call on Wonderland Avenue and discovered a grisly quadruple homicide. The police investigation that followed uncovered two versions of the events leading up to the brutal murders - both involving legendary porn actor John Holmes. You're about to experience both versions.",
@@ -98,7 +98,7 @@
             },
             {
                 "_index": "movies",
-                "_id": "NCli34kB2pxr6vtDpwTx",
+                "_id": "ybK4CIoBTpQz_13glG2d",
                 "_score": 1,
                 "_source": {
                     "overview": "On the hottest day of the year on a street in the Bedford-Stuyvesant section of Brooklyn, everyone's hate and bigotry smolders and builds until it explodes into violence.",
@@ -125,7 +125,7 @@
             },
             {
                 "_index": "movies",
-                "_id": "NSli34kB2pxr6vtDpwTx",
+                "_id": "yrK4CIoBTpQz_13glG2d",
                 "_score": 1,
                 "_source": {
                     "overview": "College has always been a time for experimentation, sexual, cultural and otherwise. \"Harvard Man\" plays out against a background of love, sex, basketball, crime and experimentation. Action and philosophy in young people's quest to discover their true identity.",
@@ -152,7 +152,7 @@
             },
             {
                 "_index": "movies",
-                "_id": "Nili34kB2pxr6vtDpwTx",
+                "_id": "y7K4CIoBTpQz_13glG2d",
                 "_score": 1,
                 "_source": {
                     "overview": "Marcel Marx, a former bohemian and struggling author, has given up his literary ambitions and relocated to the port city Le Havre. He leads a simple life based around his wife Arletty, his favourite bar and his not too profitable profession as a shoeshiner. As Arletty suddenly becomes seriously ill, Marcel's path crosses with an underage illegal immigrant from Africa, who needs Marcel's help to hide from the police.",
@@ -179,7 +179,7 @@
             },
             {
                 "_index": "movies",
-                "_id": "Nyli34kB2pxr6vtDpwTx",
+                "_id": "zLK4CIoBTpQz_13glG2d",
                 "_score": 1,
                 "_source": {
                     "overview": "Events over the course of one traumatic night in Paris unfold in reverse-chronological order as the beautiful Alex is brutally raped and beaten by a stranger in the underpass. Her boyfriend and ex-lover take matters into their own hands by hiring two criminals to help them find the rapist so that they can exact revenge. A simultaneously beautiful and terrible examination of the destructive nature of cause and effect, and how time destroys everything.",
@@ -206,7 +206,7 @@
             },
             {
                 "_index": "movies",
-                "_id": "OCli34kB2pxr6vtDpwTx",
+                "_id": "zbK4CIoBTpQz_13glG2d",
                 "_score": 1,
                 "_source": {
                     "overview": "Ruthless dominatrixes pursue a mild-mannered salesman who wants to get out of his unbreakable contract with a secret bondage club.",
@@ -234,7 +234,7 @@
             },
             {
                 "_index": "movies",
-                "_id": "OSli34kB2pxr6vtDpwTx",
+                "_id": "zrK4CIoBTpQz_13glG2d",
                 "_score": 1,
                 "_source": {
                     "overview": "A young idealistic English filmmaker, Sue, arrives in India to make a film on Indian revolutionaries Bhagat Singh, Chandrashekhar Azad and their contemporaries and their fight for freedom from the British Raj. Owing to a lack of funds, she recruits students from Delhi University to act in her docu-drama. She finds DJ, who passed out five years back but still wants to be a part of the University because he doesn't think there's too much out there in the real world to look forward to. Karan, the son of Industrialist Rajnath Singhania, who shares an uncomfortable relationship with his father, but continues to live off him, albeit very grudgingly. Aslam, is a middle class Muslim boy, who lives in the by-lanes near Jama Masjid, poet, philosopher and guide to his friends. Sukhi, the group's baby, innocent, vulnerable and with a weakness for only one thing - girls. Laxman Pandey...",
@@ -261,7 +261,7 @@
             },
             {
                 "_index": "movies",
-                "_id": "Oili34kB2pxr6vtDpwTx",
+                "_id": "z7K4CIoBTpQz_13glG2d",
                 "_score": 1,
                 "_source": {
                     "overview": "ANIMALS tells the story of Jude and Bobbie: a young couple that exist somewhere between homelessness and the fantasy of their imaginations. Though they masterfully con and steal in an attempt to stay one step ahead of their addiction, they are ultimately forced to face the reality of their situation when one of them gets hospitalized.",
